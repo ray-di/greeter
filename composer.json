@@ -1,0 +1,8 @@
+{
+    "name": "ray-di/greeter",
+    "type": "project",
+    "require": {
+        "ray/di": "^2.13"
+    },
+    "license": "MIT"
+}
